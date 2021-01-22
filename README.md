@@ -73,7 +73,13 @@ The Repo contains the following:
 
 #### DOCKER RUN INSTRUCTIONS
 
-In order to run this application, (At this stage, it is assumed that you have Docker up and running). Kindly run the following command below:
+In order to run this application, (At this stage, it is assumed that you have Docker up and running). kindly follow these steps:
+
+- Download this git repo & Save it on your PC
+
+```
+
+```
 
 ```
 docker run --rm -p 21337:3838 -v Absolute_path_to_folder/8Ball_Assignment_App:/srv/shiny-server  nosaugowe/eightballzibasec
