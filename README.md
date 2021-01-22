@@ -77,12 +77,11 @@ In order to run this application, (At this stage, it is assumed that you have Do
 
 - Download this git repo & Save it on your PC
 
-```git clone https://github.com/nugowe/Magic8BallApp_Zibasec.git
-   
-   
+```
+ git clone https://github.com/nugowe/Magic8BallApp_Zibasec.git
+
 
 ```
-
 ```
  docker run --rm -p 2222:3838 -v /Absolute_Path_to_Downloaded_Git_Folder/Magic8BallApp_Zibasec/:/srv/shiny-server nosaugowe/eightballzibasec
 
