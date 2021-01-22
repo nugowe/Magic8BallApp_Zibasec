@@ -55,3 +55,8 @@ Its Docker equivalent, rather Docker image, **rocker/shiny-verse** was used in d
 
 ##### PREREQUISITES
 
+- Docker
+
+For its installation, kindly refer to the [Official Docker Installation Instructions](https://docs.docker.com/get-docker/).
+
+
