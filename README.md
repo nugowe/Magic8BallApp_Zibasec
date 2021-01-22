@@ -67,4 +67,7 @@ The Repo contains the following:
 
 - **app.R** This is R code, that contains the source code for our Application. It contains the shiny framework alongside the unique instructions for delivering this Application.
 
+- **8BallPythonScript.py** - This is a Python Script that processes, wrangles and cleans data at the backend.
+
+- **Dockerfile** - This contains build and logic information understood by Docker for building Docker Images.
 
