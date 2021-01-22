@@ -59,4 +59,12 @@ Its Docker equivalent, rather Docker image, **rocker/shiny-verse** was used in d
 
 For its installation, kindly refer to the [Official Docker Installation Instructions](https://docs.docker.com/get-docker/).
 
+#### REPO CONTENTS
+
+The Repo contains the following:
+
+- **www** - This folder is the tradition folder for storing css content and pictures. It is used as the default location for adding aesthetics to the appearance of Applications. In the case of this App, it acts as a default location for the Magic 8 Ball picture as shown above.
+
+- **app.R** This is R code, that contains the source code for our Application. It contains the shiny framework alongside the unique instructions for delivering this Application.
+
 
