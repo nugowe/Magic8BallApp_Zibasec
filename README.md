@@ -83,7 +83,7 @@ In order to run this application, (At this stage, it is assumed that you have Do
 
 ```
 ```
- docker run --rm -p 21337:3838 -v /Absolute_Path_to_Downloaded_Git_Folder/Magic8BallApp_Zibasec/:/srv/shiny-server nosaugowe/eightballzibasec
+ docker run --rm -p 21337:3838 -v /Absolute_Path_to_the_Downloaded_Git_Folder/Magic8BallApp_Zibasec/:/srv/shiny-server nosaugowe/eightballzibasec
 
 ```
 
