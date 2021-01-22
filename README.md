@@ -7,6 +7,42 @@ The repo contains source code for  Magic 8 Ball Application
 
 This App was created using R's web framework **Shiny**. The code for querying the backend Endpoint API and that of Data Wrangling and Cleanup was **Python**
 
+#### The R Libraries used were:
+
+- dplyr
+
+- magrittr
+
+- reticulate
+
+- shinypop
+
+- DT
+
+- shinyWidgets
+
+#### The Python modules used were:
+
+- pandas
+
+- numpy
+
+- os
+
+- requests
+
+- glob
+
+- json
+
+- datetime
+
+- time
+
+The R library **reticulate** acted as a wrapper enabling R and Python to defined and used within the code base interchangeably. For deployment,Open Source Shiny-Server was used. Open Source Shiny Server is an free web server for rendering and deploying shiny applications. 
+
+Its Docker equivalent, rather Docker image, **rocker/shiny-verse** was used in deploying this application. Docker was chosen for deployment due to its uniformity and ease of deployment.
+
 
 
 
