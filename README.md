@@ -44,20 +44,6 @@ The R library **reticulate** acted as a wrapper enabling R and Python to defined
 Its Docker equivalent, rather Docker image, **rocker/shiny-verse** was used in deploying this application. Docker was chosen for deployment due to its uniformity and ease of deployment.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#### WORKFLOW
 
 ![Screenshot from 2021-01-22 17-05-39](https://user-images.githubusercontent.com/25004712/105558448-31027980-5cd4-11eb-8fad-cba29adfd1fd.png)
