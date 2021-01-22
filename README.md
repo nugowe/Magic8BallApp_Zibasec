@@ -46,4 +46,7 @@ Its Docker equivalent, rather Docker image, **rocker/shiny-verse** was used in d
 
 #### WORKFLOW
 
+![Screenshot from 2021-01-22 17-20-45](https://user-images.githubusercontent.com/25004712/105559272-53959200-5cd6-11eb-9c3b-21f5743b2553.png)
+
+
 ![Screenshot from 2021-01-22 17-05-39](https://user-images.githubusercontent.com/25004712/105558448-31027980-5cd4-11eb-8fad-cba29adfd1fd.png)
