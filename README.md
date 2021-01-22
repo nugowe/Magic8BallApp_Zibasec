@@ -50,3 +50,8 @@ Its Docker equivalent, rather Docker image, **rocker/shiny-verse** was used in d
 
 
 ![Screenshot from 2021-01-22 17-05-39](https://user-images.githubusercontent.com/25004712/105558448-31027980-5cd4-11eb-8fad-cba29adfd1fd.png)
+
+#### USAGE INSTRUCTIONS
+
+##### PREREQUISITES
+
