@@ -95,7 +95,7 @@ In order to run this application, (At this stage, it is assumed that you have Do
 
 - **Monitoring** - ELK Stack for log, file & metric monitoring. Prometheus and Grafana for uptime and Application specific metric monitoring.
 
-- **High Availability & Resiliency** - Kubernetes would be a good candidate, due to its Cloud agnostic posture and its ability to be deployed on bare metal! It provides an endless stream of possibilities with regards Site Reliability. It is also active in the Open Source Communities with regular updated features and improvements within its ecosystem. Its opinionated approach alongside its Helm Charts ensure ease of installation and deployment of Applications.
+- **High Availability & Resiliency** - Kubernetes would be a good candidate, due to its Cloud agnostic posture and its ability to be deployed on bare metal! It provides an endless stream of possibilities with regards Site Reliability. It is also active in the Open Source Community with regular updated features and improvements within its ecosystem. Its opinionated approach alongside its Helm Charts ensure ease of installation and deployment of Applications.
 
 - **Continuous Compliance** - Puppet appears to a good choice here, as it ensures that Infrastructure always reverts to the manifest state come deployment time. Puppet ensures and maintains the Integrity of the Infrastructure, keeping the config safe from nefarious activity.
 
