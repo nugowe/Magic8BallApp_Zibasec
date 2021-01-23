@@ -86,7 +86,13 @@ In order to run this application, (At this stage, it is assumed that you have Do
  docker run --rm -p 21337:3838 -v /Absolute_Path_to_the_Downloaded_Git_Folder/Magic8BallApp_Zibasec/:/srv/shiny-server nosaugowe/eightballzibasec
 
 ```
+Once the Docker image has been successfully built, kindly navigate to your web browser and type in the following below:
 
+```
+ 
+ http://localhost:21337
+
+```
 #### Future Site Reliability Initiatives (Productionizing this Application)
 
 - Deploying this Application as an **Infrastructure as Code**. This would ensure not only the uniformity and intergrity of the Infrastructure in line with best practice.
