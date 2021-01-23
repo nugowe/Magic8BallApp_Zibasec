@@ -87,7 +87,7 @@ In order to run this application, (At this stage, it is assumed that you have Do
 
 ```
 
-#### Future Site Reliability Initiatives (Productionizing the Application)
+#### Future Site Reliability Initiatives (Productionizing this Application)
 
 - Deploying this Application as an **Infrastructure as Code**. This would ensure not only the uniformity and intergrity of the Infrastructure in line with best practice.
 
