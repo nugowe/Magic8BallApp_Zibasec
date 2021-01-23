@@ -93,7 +93,7 @@ Once the Docker image has been successfully built, kindly navigate to your web b
  http://localhost:21337
 
 ```
-#### Future Site Reliability Initiatives (Productionizing this Application)
+# Future Site Reliability Initiatives (Productionizing this Application)
 
 - Deploying this Application as an **Infrastructure as Code**. This would ensure not only the uniformity and intergrity of the Infrastructure in line with best practice.
 
