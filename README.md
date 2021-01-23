@@ -75,7 +75,7 @@ The Repo contains the following:
 
 In order to run this application, (At this stage, it is assumed that you have Docker up and running). kindly follow these steps:
 
-- Download this git repo & Save it on your PC
+- Download this git repo & save it on your PC
 
 ```
  git clone https://github.com/nugowe/Magic8BallApp_Zibasec.git
