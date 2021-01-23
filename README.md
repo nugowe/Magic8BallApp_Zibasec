@@ -89,11 +89,13 @@ In order to run this application, (At this stage, it is assumed that you have Do
 
 #### Future Site Reliability Initiatives (Productionizing the Application)
 
-- Deploy this Application as an Infrastructure as Code. This would ensure not only the uniformity and intergrity of the Infrastructure in line with best practice.
+- Deploying this Application as an **Infrastructure as Code**. This would ensure not only the uniformity and intergrity of the Infrastructure in line with best practice.
 
-- Deploy a CI/CD Pipeline. In line with best practice, A pipeline would be ideal to ensure version control and instanteous delivery of value to customers.
+- Deploy a **CI/CD Pipeline**. In line with best practice, A pipeline would be ideal to ensure version control and instanteous delivery of value to customers.
 
-- Monitoring - ELK Stack for log, file & metric monitoring. Prometheus and Grafana for uptime and Application specific metric monitoring.
+- **Monitoring** - ELK Stack for log, file & metric monitoring. Prometheus and Grafana for uptime and Application specific metric monitoring.
 
-- High Availability & Resilency 
+- **High Availability & Resiliency** - Kubernetes would be a good candidate, due to its Cloud agnostic posture and its ability to be deployed on bare metal! It provides an endless stream of possibilities with regards Site Reliability. It is also active in the Open Source Communities with regular updated features and improvements within its ecosystem. Its opinionated approach alongside its Helm Charts ensure ease of installation and deployment of Applications.
+
+- **Continuous Compliance** - Puppet appears to a good choice here, as it ensures that Infrastructure always reverts to the manifest state come deployment time. Puppet ensures and maintains the Integrity of the Infrastructure, keeping the config safe from nefarious activity.
 
